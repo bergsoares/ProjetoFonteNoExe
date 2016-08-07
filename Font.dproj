@@ -43,7 +43,7 @@
 			<DelphiCompile Include="Font.dpr">
 				<MainSource>MainSource</MainSource>
 			</DelphiCompile>
-			<DCCReference Include="C:\Users\valdemberg\Documents\RAD Studio\Projects\uPrin.pas">
+			<DCCReference Include="uPrin.pas">
 				<Form>Form1</Form>
 			</DCCReference>
 			<BuildConfiguration Include="Base">
